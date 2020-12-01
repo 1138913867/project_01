@@ -1,0 +1,5 @@
+#忽略text.txt文件
+text.txt
+
+#忽略测试文件
+test/
